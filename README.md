@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou Gabrielly Viana</h1>
-<h3 align="center">Um desenvolvedor fullstack apaixonado</h3>
+<h3 align="center">Uma estudante de Engenharia de Software</h3>
 
 - 🌱 Atualmente estou aprendendo **reatc.js, javascript, python e C**
 
